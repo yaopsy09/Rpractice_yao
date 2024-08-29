@@ -1,1 +1,19 @@
 This is the first homework.
+# first level heading
+## second level heading
+### third level heading
+
+*Italic*
+**Bold**
+***Bold Italix***
+
+*** Horizontal diving line
+
+Single code
+'print("Hello, world!")'
+
+Multiple codes
+'''R
+print("Hello, world!")
+library(tidyverse)
+'''
